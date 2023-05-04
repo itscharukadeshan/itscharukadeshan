@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Charuka Deshan</h1>
 <br></br>
-<h3 align="center">Front-end / Ux Developer from Sri Lanka , Like to learn new things and ways to create stunning Front-end website.</h3>
+<h3 align="center">I'm a student and self-taught Front-end / UX Developer from Sri Lanka. I'm always on the lookout for new ways to create stunning websites and learn new things.</h3>
 <br></br>
 
 - 🔭 I’m currently working on [Fullstack open program](https://github.com/itscharukadeshan/Fullstackopen.git)
@@ -17,11 +17,9 @@
 
 <br></br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itscharukadeshan&show_icons=true&locale=en" alt="itscharukadeshan" /></p>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=itscharukadeshan&show_icons=true&theme=transparent)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itscharukadeshan&" alt="itscharukadeshan" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itscharukadeshan)](https://github.com/itscharukadeshan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itscharukadeshan&show_icons=true&theme=transparent)](https://github.com/itscharukadeshan/github-readme-stats&theme=transparent)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
