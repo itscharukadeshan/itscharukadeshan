@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charuka Deshan</h1>
-<h3 align="center">Front-end / Ux Developer from Sri Lankan , Like to learn new things and ways to create stunning Front-end website.</h3>
+<h3 align="center">Front-end / Ux Developer from Sri Lanka , Like to learn new things and ways to create stunning Front-end website.</h3>
 
 - 🔭 I’m currently working on [Fullstack open](https://github.com/itscharukadeshan/Fullstackopen.git)
 
