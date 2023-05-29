@@ -1,5 +1,6 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Hi%20👋,%20I'm%20Charuka&animation=fadeIn&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&$with=auto&height=350&section=header&text=Hi%20👋,%20I'm%20Charuka&animation=fadeIn&fontSize=60)
+
 
 <h3 align="center">I'm a student and self-taught Front-end / UX Developer from Sri Lanka. I'm always on the lookout for new ways to create stunning websites and learn new things.</h3>
 <br></br>
