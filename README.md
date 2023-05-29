@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charuka Deshan</h1>
 
-![](https://komarev.com/ghpvc/?username=itscharukadeshan&style=flat-square)
 
 <br></br>
 <h3 align="center">I'm a student and self-taught Front-end / UX Developer from Sri Lanka. I'm always on the lookout for new ways to create stunning websites and learn new things.</h3>
@@ -23,6 +22,9 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=itscharukadeshan&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itscharukadeshan&show_icons=true&theme=transparent)](https://github.com/itscharukadeshan/github-readme-stats&theme=transparent)
+
+
+![](https://komarev.com/ghpvc/?username=itscharukadeshan&style=flat-square)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
