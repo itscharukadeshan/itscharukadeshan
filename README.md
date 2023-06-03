@@ -1,4 +1,5 @@
 
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&$with=auto&height=350&section=header&text=Hi%20👋,%20I'm%20Charuka&animation=fadeIn&fontSize=60)
 
 
@@ -25,6 +26,8 @@
 <br></br>
 
 ---
+<h3>My Stats </h3>
+<br></br>
 
 <a href="https://github.com/itscharukadeshan/itscharukadeshan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=itscharukadeshan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="charuka's GitHub Stats" />
@@ -50,4 +53,3 @@
 
 ---
 <p align = "center"><img align="center" src = "https://komarev.com/ghpvc/?username=itscharukadeshan&style=flat-square" /></p>
-
