@@ -40,7 +40,7 @@
   
   
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,d3,nodejs,express,css,html,docker,git,github,jest,postman,tailwind,vite,figma,webflow&perline=14)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,d3,nodejs,express,css,html,docker,git,github,jest,postman,tailwind,vite,figma,webflow&perline=14)](https://skillicons.dev)
 
   
   
@@ -86,15 +86,10 @@
   
 
 <div>
-
 <p  align="center">
-
 <a  href="https://medium.com/@charukadeshan"  target="blank"><img  align="center"  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"  alt="@charukadeshan" /></a>
-
 <a  href="https://linkedin.com/in/charukadeshan"  target="blank"><img  align="center"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="charukadeshan" /></a>
-
 <a  href="https://twitter.com/itscharuka"  target="blank"><img  align="center"  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  alt="itscharuka" /></a>
-
 <a  href="https://www.figma.com/@charukadeshan"  target="blank"><img  align="center"  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"  alt="itscharuka" /></a> </p>
 
 <br></br>
