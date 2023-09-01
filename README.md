@@ -7,7 +7,7 @@
   
   
 
-<h3  align="center">Self-taught web Developer from Sri Lanka.Like to create stunning websites and learn new things.</h3>
+<h3  align="center">Self-taught web Developer from Sri Lanka. Like to create stunning websites and learn new things.</h3>
 
 <br></br>
 
