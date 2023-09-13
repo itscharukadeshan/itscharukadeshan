@@ -40,7 +40,7 @@
   
   
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,d3,nodejs,express,css,html,docker,git,github,jest,postman,tailwind,vite,figma,webflow&perline=14)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,d3,nodejs,express,css,html,docker,git,github,jest,postman,tailwind,vite,postgres,bash,figma,webflow&perline=14)](https://skillicons.dev)
 
   
   
