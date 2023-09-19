@@ -17,7 +17,7 @@
 
   
 
-- 🔭 I’m currently working on [Full stack open program](https://github.com/itscharukadeshan/Fullstackopen.git)
+- 🔭 I’m currently working on [PostgreSQL for Everybody Specialization | coursera ](https://www.coursera.org/specializations/postgresql-for-everybody)
 
   
 
