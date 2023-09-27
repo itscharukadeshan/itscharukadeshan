@@ -22,7 +22,7 @@
 
   
 
-- 🌱 I’m currently learning **React / JavaScript / D3 and some back end Technologies**
+- 🌱 I’m currently learning **React / JavaScript / D3 , SQL and Next js**
 
   
 
