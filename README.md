@@ -17,7 +17,8 @@
 
   
 
-- 🔭 I’m currently working on [PostgreSQL for Everybody Specialization | coursera ](https://www.coursera.org/specializations/postgresql-for-everybody)
+- 🔭 I’m currently working on [PostgreSQL for Everybody Specialization( JSON and Natural Language Processing in PostgreSQL
+) | coursera ](https://www.coursera.org/specializations/postgresql-for-everybody)
 
   
 
