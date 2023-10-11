@@ -85,8 +85,6 @@
 
 <h3 align="center">Socials </h3>
 
-  <br></br>
-
 <div>
 <p  align="center">
 <a  href="https://medium.com/@charukadeshan"  target="blank"><img  align="center"  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"  alt="@charukadeshan" /></a>
