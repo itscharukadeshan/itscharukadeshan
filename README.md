@@ -100,4 +100,4 @@
 
 ---
 
-<p  align = "center"><img  align="center"  src = "https://komarev.com/ghpvc/?username=itscharukadeshan" /></p>
+<p  align = "center">![](https://komarev.com/ghpvc/?username=itscharukadeshan)</p>
