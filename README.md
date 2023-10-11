@@ -100,4 +100,4 @@
 
 ---
 
-<p  align = "center"><img  align="center"  src = "https://komarev.com/ghpvc/?username=itscharukadeshan&style=flat-square" /></p>
+<p  align = "center"><img  align="center"  src = "https://komarev.com/ghpvc/?username=itscharukadeshan" /></p>
