@@ -83,7 +83,7 @@
 
   
 
-<h3  align="center">where can you find me </h3>
+<h3>Socials </h3>
 
   
 
