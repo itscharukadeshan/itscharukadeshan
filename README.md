@@ -99,5 +99,4 @@
   
 
 ---
-
-![](https://komarev.com/ghpvc/?username=itscharukadeshan)
+<p  align="center"> <img  align="center" src="https://komarev.com/ghpvc/?username=itscharukadeshan" />   </p>
