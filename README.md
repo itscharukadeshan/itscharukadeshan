@@ -100,4 +100,4 @@
 
 ---
 
-<p  align = "center">![](https://komarev.com/ghpvc/?username=itscharukadeshan)</p>
+![](https://komarev.com/ghpvc/?username=itscharukadeshan)
