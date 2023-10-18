@@ -20,7 +20,7 @@
 
   
 
-- 🔭 I’m currently working on **Understading data structures and alogrythemns**
+- 🔭 I’m currently working on **Understading data structures and algorithms**
   
 
 - 🌱 I’m currently learning **React / JavaScript / D3 , PSQL and Next js**
