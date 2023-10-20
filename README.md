@@ -1,7 +1,7 @@
 
  
   
-  
+   
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&$with=auto&height=350&section=header&text=Hi%20👋,%20I'm%20Charuka&animation=fadeIn&fontSize=60)
 
