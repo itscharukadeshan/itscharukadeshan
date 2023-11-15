@@ -22,7 +22,7 @@
 
   
 
-- 🔭 I’m currently working on **Understading data structures and algorithms**
+- 🔭 I’m currently working on **Algorithms, Part I | Princeton University**
   
 
 - 🌱 I’m currently learning **React / JavaScript / D3 , PSQL and Next js**
