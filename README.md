@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on **Data Structures & Algorithms | Brad Traversy**
   
 
-- 🌱 I’m currently learning **React / JavaScript / D3 , PSQL and Next js**
+- 🌱 I’m currently learning **DSA / JavaScript / D3 , Next.js and Python**
 
   
 
