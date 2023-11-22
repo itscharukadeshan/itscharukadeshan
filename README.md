@@ -16,7 +16,7 @@
 
   
 
-- 🔭 I’m currently working on **Algorithms, Part I | Princeton University**
+- 🔭 I’m currently working on **Data Structures & Algorithms | Brad Traversy**
   
 
 - 🌱 I’m currently learning **React / JavaScript / D3 , PSQL and Next js**
