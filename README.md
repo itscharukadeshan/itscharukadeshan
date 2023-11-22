@@ -23,7 +23,7 @@
 
   
 
-- 💬 Ask me about **React / Figma / D3 or  JavaScript**
+- 💬 Ask me about **React / DSA / D3 or  JavaScript**
 
 <br></br>
 
