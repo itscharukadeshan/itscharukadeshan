@@ -15,14 +15,14 @@
 
   
 
-- 🔭 I’m currently working on **Data Structures & Algorithms | Brad Traversy**
+- 🔭 I’m currently working on **Data Structures & Algorithms course | Brad Traversy**
   
 
 - 🌱 I’m currently learning **DSA / JavaScript / D3 , Next.js and Python**
 
   
 
-- 💬 Ask me about **React / DSA / D3  and  JavaScript**
+- 💬 Ask me about **React / Astro / D3  and  JavaScript**
 
 <br></br>
 
