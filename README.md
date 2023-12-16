@@ -30,7 +30,7 @@
 
   
 
-<h3>My Meet My Crew</h3>
+<h3>Meet My Crew</h3>
 
 <br></br>
 
