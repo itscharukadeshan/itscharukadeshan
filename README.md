@@ -3,7 +3,7 @@
 
 
 
-<h3  align="center">Self-taught web Developer.</h3>
+<h3  align="center">Self-taught web Developer</h3>
 
 
 
