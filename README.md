@@ -37,7 +37,7 @@
   
   
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,python,astro,svelte,next,nuxt,react,d3,nodejs,express,css,html,docker,git,github,jest,postman,tailwind,vite,postgres,bash,figma,webflow,vscode,idea&perline=14)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,python,astro,svelte,next,nuxt,react,d3,nodejs,express,css,html,docker,git,github,jest,postman,tailwind,vite,postgres,graphql,bash,figma,webflow,vscode,idea&perline=14)](https://skillicons.dev)
 
   
   
