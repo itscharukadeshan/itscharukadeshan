@@ -15,7 +15,7 @@
 
   
 
-- 🔭 I’m currently working on **Data Structures & Algorithms course | Brad Traversy**
+- 🔭 I’m right now working on completing **Data Structures & Algorithms course | Brad Traversy**
   
 
 - 🌱 I’m currently learning **DSA / JavaScript / D3 , Next.js and Python**
