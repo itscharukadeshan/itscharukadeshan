@@ -15,7 +15,7 @@
 
   
 
-- 🔭 I’m right now working on completing **Data Structures & Algorithms course | Brad Traversy**
+- 🔭 I’m right now working on completing **Astro for Fast Website Development course | Jason Lengstorf**
   
 
 - 🌱 I’m currently learning **DSA / JavaScript / D3 , Next.js and Python**
