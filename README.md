@@ -15,14 +15,12 @@
 
   
 
-- 🔭 I’m right now working on completing **Astro for Fast Website Development course | Jason Lengstorf**
-  
+- 🔭 I’m right now working on: **📁 Clip Thread Api - Api for organizing clips from twitch/yotube**
+
+-🚀 Current daily Drivers Tech Stack: **🟢 Node.js / 📘 TypeScript / 🚂 Express / 📦 Prisma / 🐘 PostgreSQL and 🐳 Docker**
 
 - 🌱 I’m currently learning **DSA / JavaScript / D3 , Next.js and Python**
 
-  
-
-- 💬 Ask me about **React / Astro / D3  and  JavaScript**
 
 <br></br>
 
