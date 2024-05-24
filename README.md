@@ -26,9 +26,6 @@
 
 ---
 
-  
-
-<h3>Familiar with</h3>
 
 <br></br>
 
